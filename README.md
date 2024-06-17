@@ -36,4 +36,21 @@ Enter the cryptocurrency ID (or 'quit' to exit): quit
 Goodbye!
 ```
 ## This will display the first 20 cryptocurrencies(list):
+```bash
+Cryptocurrency List (ID - Name):
+1. bitcoin - Bitcoin
+2. ethereum - Ethereum
+3. ripple - XRP
+4. litecoin - Litecoin
+5. cardano - Cardano
+6. polkadot - Polkadot
+7. stellar - Stellar
+8. chainlink - Chainlink
+9. binancecoin - Binance Coin
+10. tether - Tether
+11. dogecoin - Dogecoin
+...
+```
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
