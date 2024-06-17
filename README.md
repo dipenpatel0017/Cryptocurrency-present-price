@@ -23,4 +23,17 @@ A simple command-line application to check the current prices of various cryptoc
 2. Install the required library:
 ```
 pip install requests
-``` 
+```
+## Example
+```bash
+$ python crypto_app.py
+Welcome to the Crypto Price Checker!
+Enter the cryptocurrency ID (or 'quit' to exit): bitcoin
+The current price of bitcoin is 30000 USD.
+Enter the cryptocurrency ID (or 'quit' to exit): ethereum
+The current price of ethereum is 2000 USD.
+Enter the cryptocurrency ID (or 'quit' to exit): quit
+Goodbye!
+```
+## This will display the first 20 cryptocurrencies(list):
+
