@@ -49,7 +49,6 @@ Cryptocurrency List (ID - Name):
 9. binancecoin - Binance Coin
 10. tether - Tether
 11. dogecoin - Dogecoin
-...
 ```
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
